@@ -1,7 +1,9 @@
 open-austin-logo
 ================
 
-Coming soon - I plan to populate this repository with artwork for the Open Austin logo.
+This project contains the Open Austin logo assets.
 
-Travis Hohl did the original logo design.
-Leah Roberts re-implemented with a vector version.
+* Logo - Open Austin logo, with Photoshop source and SVG rendering, by Leah Roberts
+* Logo_Old - Initial Open Austin logo design, by Travis Hohl
+* Avatar - Open Austin social media avatar, by Travis Hohl
+
