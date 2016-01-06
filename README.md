@@ -7,5 +7,5 @@ This project contains the Open Austin logo assets.
 * Swag_OpenAustin - Logo assets for buttons, t-shirts, and stickers.
 * Past_Logos - previous versions of our logo.
 
-Our current logo was designed by Victoria O'Dell (@victoriaodell).
-Previous versions of our logo were designed by Travis Hohl (@travishohl) & Leah Roberts.
+Our current logo was designed by Victoria O'Dell ([@victoriaodell](https://github.com/victoriaodell)).
+Previous versions of our logo were designed by Travis Hohl ([@travishohl](https://github.com/travishohl)) & Leah Roberts.
